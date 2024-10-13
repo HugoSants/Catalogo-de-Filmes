@@ -1,0 +1,88 @@
+[
+        {
+            "titulo": "Animais Fantasticos: os Segredos de Dumbledore",
+            "imagem": "img/01.jpg"
+        },
+        {
+            "titulo": "Oppenheimer",
+            "imagem": "img/02.jpg"
+        },
+        {
+            "titulo": "Furiosa: Uma saga Mad Max",
+            "imagem": "img/04.jpg"
+        },
+        {
+            "titulo": "Jurassic Word",
+            "imagem": "img/05.jpg"
+        },
+        {
+            "titulo": "Divertidamente 2",
+            "imagem": "img/06.jpg"
+        },
+        {
+            "titulo": "O Hobbit: A desolação de Smaug",
+            "imagem": "img/07.jpg"
+        },
+        {
+            "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+            "imagem": "img/08.jpg"
+        },
+        {
+            "titulo": "Homem de Ferro",
+            "imagem": "img/09.jpg"
+        },
+        {
+            "titulo": "Thor",
+            "imagem": "img/10.jpg"
+        },
+        {
+            "titulo": "Jogos Mortais V",
+            "imagem": "img/11.jpg"
+        },
+        {
+            "titulo": "Deadpool e Wolverine",
+            "imagem": "img/12.jpg"
+        },
+        {
+            "titulo": "Homem Formiga e a Vespa",
+            "imagem": "img/13.jpg"
+        },
+        {
+            "titulo": "Kung Fu Panda 4 ",
+            "imagem": "img/14.jpg"
+        },
+        {
+            "titulo": "Vingadores Guerra Infinita",
+            "imagem": "img/15.jpg"
+        },
+        {
+            "titulo": "IT a coisa",
+            "imagem": "img/16.jpg"
+        },
+        {
+            "titulo": "Avatar: O caminho da Água",
+            "imagem": "img/17.jpg"
+        },
+        {
+            "titulo": "Velozes e Furiosos 10",
+            "imagem": "img/18.jpg"
+        },
+        {
+            "titulo": "Napoleon",
+            "imagem": "img/19.jpg"
+        },
+        {
+            "titulo": "O Corvo",
+            "imagem": "img/20.jpg"
+        },
+        {
+            "titulo": "Planeta dos macacos: Reinado",
+            "imagem": "img/21.jpg"
+        },
+        {
+            "titulo": "Venom 3: a Ultima rodada",
+            "imagem": "img/22.jpg"
+        }
+
+
+    ]
